@@ -2,7 +2,7 @@
 
 This is the released codes of the following paper submitted to ICDE 2025:
 
-Kangzheng Liu, Feng Zhao, Guandong Xu, Huan Huo. Recalling MultiView History to Future: Cognition Based Temporal Knowledge Graph Reasoning.
+Feng Zhao, Kangzheng Liu, Guandong Xu, Huan Huo. Recalling MultiView History to Future: Cognition Based Temporal Knowledge Graph Reasoning.
 
 ![RMVH](https://github.com/Liudaxian1/FIG/blob/main/RMVH.png)
 
