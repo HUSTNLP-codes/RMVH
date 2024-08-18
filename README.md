@@ -19,7 +19,7 @@ numpy==1.26.4
 ## Introduction
 
 - ``src``: Python scripts.
-- ``results``: Model files that replicate the reported results in out paper.
+- ``results``: Model files that replicate the reported results in our paper.
 - ``data``: TKGs used in the experiments.
 
 ## Training Command
